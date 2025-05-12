@@ -1,0 +1,6 @@
+.section1{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: start;
+}
